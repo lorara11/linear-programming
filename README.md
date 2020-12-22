@@ -10,4 +10,4 @@ The code can be interpreted using `glpsol`, the GLPK command-line solver, runnin
 glpsol -m ex.mod -o ex.sol 
 ```
 
-where ``ex.mod`` is the file to be interpreted.
+where `ex.mod` is the file to be interpreted, and `ex.sol` is the file that will be created and will contain the problem's solution.
