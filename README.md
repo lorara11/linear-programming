@@ -6,6 +6,8 @@ This repository contains my solutions to the problems proposed at the Computer L
 
 The code can be interpreted using `glpsol`, the GLPK command-line solver, running the following command:
 
-``` glpsol -m ex.mod -o ex.sol ```
+``` 
+glpsol -m ex.mod -o ex.sol 
+```
 
 where ``ex.mod`` is the file to be interpreted.
